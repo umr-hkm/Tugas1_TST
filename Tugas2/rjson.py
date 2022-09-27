@@ -15,6 +15,4 @@ def read_mahasiswa(NIM: str):
     for mahasiswa in data['mahasiswa']:
         if mahasiswa['NIM'] == NIM:
             return mahasiswa
-    raise Exception(
-        status_code=404, detail=f'Item not found'
-    )
+    return {"Data" : "NotFound"}
