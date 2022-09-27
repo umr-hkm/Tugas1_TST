@@ -1,12 +1,12 @@
 {
     "mahasiswa" : [
     {
-        "nim" : "18220073",
-        "nama" : "Umar Hakim"
+        "NIM" : "18220073",
+        "Nama" : "Umar Hakim"
     },
     {
-        "nim" : "18220071",
-        "nama" : "Muhammad Zaky"
+        "NIM" : "18220071",
+        "Nama" : "Muhammad Zaky"
     }
 
     ]
